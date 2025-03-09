@@ -1,0 +1,810 @@
+product_id,product_name,price,Cogs,category_id
+1,Supples Baby Pants Diapers,949,629.5,7
+2,Pampers Active Baby Taped Diapers,1699,934.5,7
+3,Mamaearth Hydragel Indian Sunscreen Spf 50,399,226,7
+4,Mamaearth Gentle Cleansing Shampoo for Babies ,199,123,7
+5,Himalaya Extra Moisturizing Baby Wash,275,176,7
+6,MamyPoko Pants Extra Absorb NB76,999,674.5,7
+7,LuvLap Tiny Love Heat Sensitive Baby Feeding Spoons Set,159,93.5,7
+8,Supples Baby Wet Wipes with Aloe Vera and Vitamin E,744,559,7
+9,Philips Avent NATURAL 2,515,265.5,7
+10,Mamaearth Tea Tree Natural Face Wash for Acne & Pimples Wash 100 ml ,259,139,7
+11,AMAZARA Baby Proofing Corner Guards I Pre,200,134,7
+12,Nestlé CERELAC Baby Cereal with Milk ,399,254.5,7
+13,Little's Baby Pants Diapers,165,88.5,7
+14,Little's Comfy Baby Pants ,259,159.5,7
+15,Himalaya Baby Hair Oil 200 ml,1161,891.5,7
+16,Nestle LACTOGEN 2 Follow,240,170.5,7
+17,Mee Mee Anti,599,441,7
+18,Little's Soft Cleansing Baby Wipes with Aloe Vera,305,155,7
+19,Mamaearth Deeply nourishing wash for babies ,399,239,7
+20,LuvLap Mobby Little Spout Sipper,999,686.5,7
+21,LuvLap Elegant Baby Hair Brush and Comb Set,230,130,7
+22,Sebamed Baby Cream Extra Soft 50m,400,247.5,7
+23,KidDough Furniture Safety Locks for Kids ,799,499,7
+24,Toyshine Kids Wooden Angle Geometric Blocks Stacker Shape Sorter Column Puzzle Stacking Set ,380,307.5,7
+25,Funskool Star Links,199,123,7
+26,Mamaearth Tea Tree Anti Dandruff Shampoo,259,159.5,7
+27,Johnson's Baby Skincare Wipes with Lid,219,134.23,7
+28,Babique Octopus Sitting Plush Soft Toy Cute Kids Animal Home Decor Boys/Girls ,700,404.5,7
+29,Aveeno Baby Daily Moisturising Lotion for Delicate Skin ,550,350.5,7
+30,Philips Avent Plastic BPA Free Material Aven Straw Cup SCF796/00 200 ML 1 Piece,999,786,7
+31,Mamaearth Onion Hair Serum For Silky & Smooth Hair,199,149,7
+32,Chinmay Kids 4,349,187,7
+33,Mamaearth Anti Hair Fall Spa Range Hair Care Set: Onion Shampoo 250 ml + Onion Conditioner 250 ml + Onion Hair Oil 150 ml,1290,885.5,7
+34,fizzytech Toys Talking Cactus Baby Toys for Kids Dancing Cactus Toys Can Sing Wriggle & Singing Recording Repeat What You ,799,709.5,7
+35,Chicco Toothpaste,849,534,7
+36,Philips Avent Natural Teat 4 Holes Fast Flow for 6months and above,775,426,7
+37,Philips Avent Ultra Air Pacifier Pack of 2 ,1149,791.5,7
+38,Olay Natural Aura Vitamin B3,499,274.5,7
+39,Protinex Mama Nutritional Drink ,299,160.5,7
+40,Sebamed Baby Body Lotion 100 ml,999,749.5,7
+41,Luv Lap Turtle Shaped Baby Manual Toothbrush & Toddler Toothbrush,449,292,7
+42,Luv Lap Washable Maternity Nursing Breast Pads,200,116,7
+43,Hamdard Safi Blood Purifier Syrup Skin Care Pimple Free for Natural Glowing Skin 500 ml,799,511.5,7
+44,Luv Lap LuvLap Steel Feeding Baby Bottle,699,499.5,7
+45,Mamaearth Aqua Glow Gel Face Moisturizer With Himalayan Thermal Water and Hyaluronic Acid for 72 Hours Hydration 100ml,375,201.5,7
+46,LuvLap Super Soft Baby Toothbrush,839,519.5,7
+47,Wowper Fresh Baby Diaper Pants ,699,454.5,7
+48,Aveeno Baby Soothing Relief Moisture Cream Fragrance Free,898,473,7
+49,Little Angel Extra Dry Baby Pants Diaper,198,103,7
+50,BLOOMBUDDY Organic Growth Booster Fertilizer Manure for plants ,999,581,7
+51,Luv Lap Jungle Time Double Sided Water Proof Baby Play Mat,175,122.5,7
+52,Babique Pluto Sitting Plush Soft Toy Cute Kids Animal Home Decor Boys/Girls ,79,46.5,7
+53,Colgate Kids Toothpaste with 0% Artificial Preservatives,349,204.5,7
+54,Luv Lap Baby Safety Electrical Socket Plug Cover Guards,230,126,7
+55,Philips Avent Advance Bottle sterilizer SCF291/00,599,316.5,7
+56,Pikipo Plush Soft Ball ,699,402.5,7
+57,Supples Baby Wet Wipes with lid Enriched with Aloe Vera,179,105,7
+58,ANTIL'S® Baby Carrier Bag/Adjustable Hands Free 4 in 1 Baby/Baby Safety Belt/Child Safety Strip/Baby Sling Carrier Bag/Bab,798,525.5,7
+59,Luv Lap Baby & Mother Electric Nail Trimmer,999,532,7
+60,BabyGo Cushioned Potty Seat,1498,1051.5,7
+61,Mamaearth Vitamin C Day Cream For Face,2475,2319,7
+62,Boniry Push Pop it Bubble Fidget Toy,2000,1550.5,7
+63,LuvLap Banana Time 210ml Anti Spill,798,530,7
+64,Babique Plush Soft Toy Cute Kids Animal Home Decor Boys/Girls/Baby ,575,350,7
+65,Synlark Baby Head Protector,1599,936.5,7
+66,MamyPoko Tape Diapers for Babies,899,744.5,7
+67,Luv Lap Baby Grooming Scissors & Nail Clipper Set/Kit,195,129,7
+68,Oral B Vitality Criss Cross Electric Rechargeable Toothbrush with Travel Case,179,114.5,7
+69,Colgate Kids Barbie Manual Toothbrush,4995,2925,7
+70,DearJoy Big Fibre Filled Baby Pillow and Stuffed Animal Elephant Soft Toy of Plush Hugging Pillow Material for Kids Boy/Gi,399,257,7
+71,BabyPro Lab Tested ,179,100.5,7
+72,Nestlé Nan EXCELLAPRO 2 Follow,596,451.5,7
+73,Happy365 Mosquito Net Single Bed ,1999,1849.5,7
+74,B4brain Traditional Wooden Walker for Babies 8 Month,1299,1049.5,7
+75,AV2 Women's Cotton Starred Knee Length Maternity Nightdress,499,364.5,7
+76,Kradyl Kroft Toddler Pillow with 100% Cotton Removable Cover ,649,464,7
+77,Little Hood Super Elastic Headband Soft Headwrap Crown for Baby Girls and Toddlers ,60,35,7
+78,CEE 18 Women's Cotton Lightly,699,449.5,7
+79,Busy Kid Swing Seat for Kids,2299,1558.6,7
+80,POLKA TOTS Reusable & Washable Swim Diaper,799,649.5,7
+81,VALKYRIE Baby Nail Trimmer Electric Safe Baby Nail Clippers,999,699.5,7
+82,Anoma Women's Pregnancy Panty ,1449,814.5,7
+83,Devek' s Women's Rayon Maternity Dress,999,701.5,7
+84,Maxima Amulya Stainless Steel Baby Feeding Bottle,335,185,7
+85,Campus Men's OXYFIT ,999,675,6
+86,SPOKOFIT Finger Gripper Strength Trainer Forearm Exerciser Hand Yoga Resistance Band Exerciser Climbing,699,634.5,6
+87,Baggit Women's PEPSI Sling Bag,1599,1274.5,6
+88,Lista Lista002 Bicycle Silicone Saddle Seat and Cycling Cushion Pad Bike Gel Cover,999,896.5,6
+89,Amazon Brand ,1800,1350.5,6
+90,QUPET Imported Portable High Pressure Foot Air Pump Compressor for Car and Bike Air Pump for Motorbike Cars Bicycle for Fo,1440,1015.5,6
+91,SFANE Polyester 23 cms Navy Blue Gym Bag,1299,1062,6
+92,Strauss Bicycle Flash Tail Light with Laser,1395,1177.5,6
+93,Cockatoo YM100 Yoga Mat For Women & Men,499,409.25,6
+94,Yonex ZR 100 Light Aluminium Badminton Racquet with Full Cover ,599,499.5,6
+95,Slovic Pull,750,500.5,6
+96,YONEX ZR 100 Light Aluminium Blend Badminton Racquet with Full Cover ,1499,1154.5,6
+97,House of Quirk 7pcs Set Travel Organizer Packing Cubes Lightweight Travel Luggage Organizers with Laundry Bag or Toiletry ,1500,1053.36,6
+98,IRONFIX® Adjustable Hand Grip Exerciser,1499,1074.5,6
+99,Fostelo Handbag For Women And Girls ,299,259,6
+100,GoTrippin Waist Bags for Men Women,2399,2084.5,6
+101,Volatility Russia Hand Stich Football Size,1399,899.5,6
+102,SLOVIC Anti,1999,1749.5,6
+103,FitBox Sports 8kg Exlusive Octa PVC Dumbbells ,999,649.5,6
+104,Cosco Light Cricket Tennis Ball ,249,159.5,6
+105,Boldfit Yoga Belt for Women and Men ,510,310.5,6
+106,Fashnex Resistance Bands Set for Exercise,499,424.5,6
+107,Astroghar Mini Hand Tally Counter Finger Ring Digital Electronic Head Count,1700,1285.5,6
+108,GKI Superb 3 Star ABS Plastic 40 Table Tennis Ball ,1499,1163.48,6
+109,Yonex Mavis 2000 Green Cap Nylon Shuttlecock,250,212.5,6
+110,Cable World Mid,492,292.5,6
+111,Tynor Knee Cap Air Pro,3599,2850,6
+112,AmazonBasics Cylinder Bagless Vacuum Cleaner with Power Suction,1399,1101,6
+113,Feroc 440 Aluminum Set of 2 Badminton Racket with 3 Pieces Feather shuttles with Full Cover Fulfilled by Amazon,399,219,6
+114,RUBX Rubber Coated Professional Exercise Hex Fixed Dumbbells ,6000,4300.5,6
+115,FreshDcart 5,999,749,6
+116,Silver's Kids SIL,3000,2200.5,6
+117,Boldfit Resistance Bands for Workout Dual Color Heavy Resistance Band for Stretching,999,909,6
+118,Gadget Deals 2,399,251.5,6
+119,Silver's Plastic Shuttle Cock Marvel,599,424.5,6
+120,Speedo,1199,999.5,6
+121,Campus Men's Maxico Running Shoes,75,40,6
+122,Cockatoo Adjustable Hand Gripper; Hand Grip,529,269,6
+123,Nivia 418M Lycra,1299,961.5,6
+124,Amazon Basics 300 W Hand Blender with Stainless Steel Stem for Hot/Cold Blending and In,530,455.5,6
+125,Amazon Basics Neoprene Ankle Weight,240,140,6
+126,Boldfit Winter Wear for Women Winter Cap for Men Woolen Cap for Men Beanie Cap for Men Winter Gloves for Men Winter Clothi,1999,1549.5,6
+127,Lifelong LLAS01 Polypropylene Aerobics Stepper ,850,635.5,6
+128,Nivia Wrist Band WB01 ,799,649.5,6
+129,Star X 2KGPVC Dumbbell,2100,1600.5,6
+130,Campus Men's North Plus Running Shoes,140,90,6
+131,Stag 4 Star Table Tennis Racquet ,599,519.5,6
+132,Zuvexa Portable Foot Air Pump ,1699,1049.5,6
+133,NIVIA Encounter Stockings,605,305,6
+134,Strauss Adjustable Hand Grip with Counter,999,789.5,6
+135,Campus Men's ROC PRO Running Shoes,105,55,6
+136,Lifelong Treadmill LLTM162 Fit Pro 2 HP Peak DC Motorized,699,552.75,6
+137,Raisco 717F Nylon Volleyball Net,1599,1059.5,6
+138,Adult's Cotton Caps ,43000,36000.5,6
+139,ADISA Women Girls Floral Print Sling Bag,499,349.5,6
+140,Leader Kids Children,32000,27850.5,6
+141,Yantralay School Of Gadgets 3,699,599.5,6
+142,Bodyband Yoga Mat for Women and Men 4mm with Carry Strap EVA Material Extra Thick Exercise Mat for Workout Yoga Fitness Pi,1499,1251.5,6
+143,Sports Cricket Leather Ball ,5900,3900.5,6
+144,Jack & Jones Men's Cap ,899,649.5,6
+145,Strauss Pattela Strap Knee Support,699,527.5,6
+146,Kore 8 In1 Multi Functional Fitness Bench,799,449,6
+147,Fashnex Pull up Bar,699,561.5,6
+148,Protoner Home Gym 18 kgs,599,429,6
+149,ASIAN Women's Elasto,2899,1699,6
+150,APRODO Multi Purpose Weight Lifting Belt for Back Support Comfortable & Durable for Powerlifting,1999,1519.48,6
+151,Nivia Polyester String Bag,3786,3091.5,6
+152,Arainfit Tummy Twister Board for Waist Twister Exercise,1499,1147,6
+153,DSC mens Zoooter Cricket Shoes Cricket Shoes,499,361.5,6
+154,ASIAN Men's Synthetic Sports,442,345.5,6
+155,Women Sports Shorts,1200,900.5,6
+156,Wildcraft 45 Ltrs Red Rucksack ,849,449,6
+157,Aim Emporium Manual Digital Hand Tally Counter/Finger Counter with Led Light Pack of 2,699,426.5,6
+158,Aurion Best Premium Pro Genuine Leather Weight Lifting Belt ,699,599.5,6
+159,FitBox Sports Glove3 Gym Gloves,2099,1252,6
+160,WiseLife TRU Alignment Yoga Mat + Sleek Yoga Strap for Men and Women ,599,473.5,6
+161,TYNOR Knee cap for Men & Women,899,499.5,6
+162,Ventewa Spain Unisex Wool Blend French Artist Beret Cap,499,449.5,6
+163,SPANCO Pack of 2 ,4995,4383.11,6
+164,Strauss Foot/Hand Massage Roller,347,231,6
+165,JAZAA Bucket Hat for Women Men Teens Reversible Summer Beach Sun Hat Packable Fisherman Cap for Travel Outdoor Hiking,999,849.5,6
+166,Adidas Mens Yking 2,223,177.54,6
+167,Serveuttam Shoulder Brace w/Reusable Pack for Injuries Pain Relief,1899,1574.5,6
+168,Maniac Men's Cargo Black Cotton Jogger,599,450.5,6
+169,SAIELLIN Push,3299,2086.5,6
+170,Nivia Web Football Goal Keep Gloves ,550,404.175,6
+171,Wilson NBA DRV Series Basketball ,2829,2601.5,6
+172,Lifelong Fit Pro Spin Fitness Bike with 6 Kg,999,774.5,6
+173,Bourge Mens Loire,449,229,6
+174,F Gear Army 30 liters Olive Canvas Gym Bag,1599,859,6
+175,ADOFYS Action Camera and Mobile Universal Aluminium Alloy Mount with Two 360° rotational Angle and with Quick Release clam,24999,19499.5,6
+176,BLINKIN Stretchable Yoga Pants for Women & Gym Pants for Women Workout with Mesh Insert & Side Pockets ,1499,1349.5,6
+177,DOCTOR EXTRA SOFT Memory Foam Men's Shoes for Walking Gym Training,1398,1095.5,6
+178,Van Heusen Proactive Women Sports Bra ,3299,2705,6
+179,M ART City Black 32 Panel Football ,1680,1491,6
+180,Speedo Unisex,3580,3025,6
+181,Grounding Mat Therapy Kit ,400,250.5,6
+182,YELLOWFIN Action Camera Aluminium Alloy Holder Compatible with gopro Bike Mount with Two 360° rotational Angle for Bike Mo,499,394.5,6
+183,Gts Dezir Leather Cricket Ball,1100,820.5,6
+184,NIVIA Storm ,1179,707,6
+185,Toyshine Magnetic Power with Double Faced Portable and Foldable Dart Game with 6 Colourful Non Pointed Darts for Kids ,4999,3431,6
+186,Campus Men's Corel Floaters,2999,2349.5,6
+187,Shobha ENTERPRISES Black Solid Caps for Men & Women for Sports & Outdoor,399,311,6
+188,Reebok Womens Super Connect W Running Shoe,699,408,6
+189,Nivia 4139 Hydro Pull Buoy ,1999,1649.5,6
+190,Cason ,599,300.5,6
+191,Kobo WTA,299,214,6
+192,Campus Women's Brownie Running Shoes,2599,2050,6
+193,BLIVE Men's Full Sleeve Hooded T,430,230,6
+194,SLYK Core Sliders 2 Double Sided Gliding Discs for Abdominal Exercises and Total Body Workout Equipment,995,758,6
+195,AGARO AR4421 4 Wheel Ab Roller core Steel Handle With Knee Mat,400,220,6
+196,T2F Girl's Regular Track Pants,1899,1139.5,6
+197,TOVIXY Fishing Net,2499,2349.5,6
+198,MAXWELL® Yoga Mat for Women and Men Fitness,799,614.5,6
+199,Jaspo T,1299,999.5,6
+200,Hero Sprint Riot 26T Single Speed Mountain Cycle ,1800,1390.5,6
+201,Campus Men's Milan Running Shoes,2999,2649.5,6
+202,Jaspo Cruizer 72 MM Inline Wheels ,1599,1439.5,6
+203,XTRIM Neoprene Weighted Straps for Wrist & Ankle,998,753.5,6
+204,Toyshine Badminton Tennis Racket Overgrip for Anti Slip and Absorbent Grip ,14999,11399.5,6
+205,HEELIUM Bamboo Crew Socks for Men,1699,1316.5,6
+206,Willage Cricket Bats,599,449.5,6
+207,Campus Men's Running Shoes,999,589.5,6
+208,StarX Beginner Foam Gym / Exercise_and_Fitness Gloves,349,197.5,6
+209,Max Women Track Pants,1499,1099.5,6
+210,NOFALL Women's Ankle Length Cotton & Lycra Socks ,597,347,6
+211,Campus Women's Alice Running Shoes,1299,955,6
+212,FITSY® Resistance Toning Tube + Door Anchor + Carry Pouch + Workout Chart,290,212,6
+213,CLOTHERA Summer Big Brim Floppy Leopard Printed Ribbon Beach Straw Hats for Women,649,499.5,6
+214,Gajraj Cotton Slouchy Beanie and Skull Cap for Summer,1350,900.5,6
+215,Red Cherry Leather Ball,1299,844.5,6
+216,Hero Kyoto 26T Single Speed Hybrid cycle for Men ,949,699.5,6
+217,Sparx mens Sx0648g Sneaker,899,757,6
+218,USI UNIVERSAL 415S Men's Black Polyester Sauna Suit For Fitness Weight Loss Exercise Gym Training,499,384.5,6
+219,Meat Up Chicken Flavour Real Chicken Dog Biscuit For All Life Stages,349,185,5
+220,Purepet Ocean Fish Adult Dry Cat Food,239,149.5,5
+221,Purepet Mackerel Adult Dry Cat Food,239,146.5,5
+222,Drools Chicken and Egg Adult Dry Dog Food,699,391.5,5
+223,Pedigree Adult Dry Dog Food,810,462,5
+224,Pedigree Adult Wet Dog Food,750,420,5
+225,Pedigree Puppy Dry Dog Food,760,437,5
+226,Drools Absolute Calcium Bone Jar,460,264.5,5
+227,Drools Chicken and Egg Puppy Dry Dog Food,699,402,5
+228,Drools Optimum Performance Adult Dry Dog Food,1499,883.5,5
+229,Drools Adult,899,517,5
+230,Pedigree Puppy Wet Dog Food,525,275,5
+231,Purepet Clumping Lavender Fragrance Cat Litter ,320,179.5,5
+232,Purepet Chicken & Vegetable Adult Dry Dog Food,2299,1287.5,5
+233,Drools Adult Wet Dog Food,840,483,5
+234,Whiskas Adult Dry Cat Food ,1060,609.5,5
+235,Whiskas Kitten Dry Cat Food ,1180,678.5,5
+236,Pet Pattern Advance Cat Litter 10 KGS Litter 99,1598,1265,5
+237,Whiskas Adult Wet Cat Food ,480,264,5
+238,Whiskas Kitten Wet Cat Food ,480,264,5
+239,Purepet Tuna and Salmon Adult Cat Food,999,574.5,5
+240,Meat Up Kitten,450,234,5
+241,Meat Up Munchy Sticks,249,130.5,5
+242,Pedigree Dentastix Oral Care Treats for Medium Breed Adult Dogs ,800,440,5
+243,BarkButler x FOFOS Poop Bag Refills,399,249,5
+244,LIVEONCE Safest Round Organic Bird nest Purely Handmade Sparrow/Small Birds,399,289.5,5
+245,Vivaldis Endewor Natural Enzyme & Probiotic Based De,230,130,5
+246,Foodie Puppies Pet Massage Rubber Bath Glove for Dogs,299,224.5,5
+247,Purepet Sea Food Adult Cat Food,999,574.5,5
+248,ZOIVANE Potty Training Spray for Puppy ,400,230.5,5
+249,Foodie Puppies Anti,499,389,5
+250,The Pets Company Pet Massage Rubber Bath Glove for Dogs,110,60.5,5
+251,The Pets Company Durable Cat Litter Scooper,110,60.5,5
+252,Boltz Anti Tick & Flea Dog Shampoo with Neem,399,249.5,5
+253,Dogz & Dudez Natural Neem Shield Tick & Flea Repellent Spray for dogs 200ml ,399,226.5,5
+254,Drools Absolute Skin + Coat Tablet,265,152.5,5
+255,Let's Bite Active Kitten Dry Cat Food,199,106.5,5
+256,Dog Shampoo & Puppy Shampoo ,525,302,5
+257,QIQI® Dog Bath Brush Body Scrubber Shampoo Dispenser Tick Remover for Shower Bathing and Shedding Soft Silicone Bristles B,598,503.5,5
+258,Meat Up Adult ,599,499.5,5
+259,Whiskas Tasty Mix Adult ,499,339,5
+260,Foodie Puppies Siphon Pump for Aquarium/Fish Tank Cleaning Tool Without Valve Algae Scrapers & Fish Tank Gravel Cleaner ,1200,780,5
+261,MS Pet House Rawhide Dog Chew Bone For Young Dogs,998,798.5,5
+262,Royal Canin Persian Chicken Pellet,399,309,5
+263,Pedigree PRO Adult Dry Dog Food for Large Breed Active Dog,1099,867,5
+264,LIVEONCE Pure Nest Bird House Purely Handmade,2300,1265,5
+265,VETMOC Self Cleaning Slicker Brush,1160,638,5
+266,Hallofeed Special Blood Worms Dry Food For Fish of All Life Stages,599,456.5,5
+267,PUPPEE Pet Training Pads For Dogs,599,449.5,5
+268,Gnawlers Calcium Chicken Stick for Dogs of All Life Stages,900,665.5,5
+269,Royal Canin Intense Beauty Gravy Adult Cat Seafood,700,399.3,5
+270,24x7 eMall 4 Way Automatic Fish Feeder,310,160.5,5
+271,Foodie Puppies Professional Lockable Nail Cutter with Filer ,1380,800,5
+272,Royal Canin Pug Adult Dry Dog Food,3999,3399.5,5
+273,PetCrux® Exclusive Cat Litter Tray Multicolor Litter Tray,399,306.5,5
+274,Purepet Chicken and Milk Adult Dry Dog Food,3230,1857.5,5
+275,Futurekart Cat Harness Leash Nylon Set for Cat Rabbit Kitten and Small Pet Nylon Harness Strap Collar /Cat Training Leash ,2999,2849.5,5
+276,Qpets® 3 Way Automatic Fish Feeder for Aquarium Timer Turtle Food Fish Tank Accessories Aquarium Auto Feeder Fish for Mari,359,209,5
+277,Royal Canin Maxi Puppy 10 kg Dry Dog Food,699,609.5,5
+278,Canine Creek Adult Dry Dog Food,1988,1365,5
+279,HUDACRUSH Dog Bath Brush Body Scrubber Shampoo Dispenser Tick Remover for Shower Bathing and Shedding Soft Silicone Bristl,8000,4607.5,5
+280,FARMINA N&D Prime ,590,330.5,5
+281,Jainsons Pet Products Natural Earthenware Jute Bird Nest House Hut Cage Feeder for Bird House for Small Birds,499,434.5,5
+282,PSK PET MART White Twisted Chew Sticks for Dogs Pack of 1kg,2250,1445,5
+283,Buraq Basic Full Body Cat Harness with Leash Set for Walking ,399,249.5,5
+284,THE DDS STORE Cat Nail Clipper with Safety Guard to Avoid Over,999,764.5,5
+285,Heads Up For Tails Natural Anti Tick and Flea Powder for Dog & Cat ,699,604.5,5
+286,Foodie Puppies Interactive Catch The Mouse Cat Scratcher Toy with a Running Mice and a Scratching Pad for Cats & Kittens ,599,494.5,5
+287,Sobo SB,199,104.5,5
+288,Vayinato Petzlifeworld Fish Tank Decoration Landscape Ornament Aquatic Double Leaf Aquarium Plants Seeds Live Plant ,670,384,5
+289,Taiyo Pro,450,252.5,5
+290,Foodie Puppies Dog Rope Chew Toy for Dogs and Puppies ,299,189.5,5
+291,Petterati Pet Sanitizer ,575,380,5
+292,Optimum All Life Stages Happy Fins Cichlid Quick Red Pellet Fish Food,399,329,5
+293,Qpets® Cat Vest Harness with 1,299,186,5
+294,Foodie Puppies Natural Latex Rubber Squeaky Black & White Puppy ,450,339,5
+295,Goodies Energy Dry Dog Treats For All Life Stages,755,483,5
+296,Dogsee Chew 100% Natural Turmeric Cheese Based Dental Chews Medium Bars ,440,351.5,5
+297,BarkButler x Fofos Super Durable Bumpy Dog Ball Toy,575,317.5,5
+298,Drools Tuna & Salmon Dry Adult Cat Food,369,212,5
+299,Axmon® 40 Watt Submersible Pump [Ultra Quiet] [2,595,345,5
+300,API Fresh Water Master Test Kit,1650,850,5
+301,JerHigh Strawberry Stick Young Adult Dog Treats,1299,1024.5,5
+302,Amijivdaya Large Bird and Water Feeder Combo ,3900,2350,5
+303,HANK Dog Comb ,995,545,5
+304,Aquarium Artificial Plastic Plant Fish Tank Ornament Tree Decoration,1668,1391,5
+305,Qpets® No Pull Dog Harness with Safety Reflective Strip Quick Release Buckle Adjustable Size Easy Control Handle for Mediu,999,702,5
+306,OhhSome 500GM Polished Colored Stone Pebbles Pebbles for Plants ,399,234.5,5
+307,Royal Canin Medium Adult Dry Meat Dog,2567,1924.5,5
+308,Foodie Puppies Gateway Tower Fort Aquarium Decoration Ornaments for Fish Tanks,1999,1129,5
+309,Medilogy Biotech Dog Shampoo Anti Tick 1Litre Protects Promotes Healthy Skin Coat Anti Bacterial Anti Fungal Anti Itch Ant,99,54.5,5
+310,Air Oxygen Bubble Disk for Aquarium 3 inch Round air Stone ,850,450.5,5
+311,Godrej aer Matic Kit ,569.01,336.01,4
+312,Presto! Oxo,480,305.5,4
+313,Happilo 100% Natural Premium 200g Whole Cashews ,335,235.5,4
+314,beatXP Kitchen Scale Multipurpose Portable Electronic Digital Weighing Scale ,1999,1799.5,4
+315,Dettol Antiseptic Liquid for First Aid ,364,193,4
+316,Scotch Double Sided Heavy Duty Tape,165,93,4
+317,Good knight Gold Flash,316,178.5,4
+318,Bajaj DX,1400,1087.5,4
+319,Maggi 2,82,42,4
+320,STRIFF Adjustable Laptop Tabletop Stand Patented Riser Ventilated Portable Foldable Compatible with MacBook Notebook Table,1499,1304.5,4
+321,Scotch,1500,962.5,4
+322,Tosaa Dry Fruit Cutter,199,154,4
+323,Dettol Skincare Moisturizing Bathing Soap Bar With Glycerine ,322,181,4
+324,Involve Your Senses One Musk Organic Car Perfume Bar,399,245.5,4
+325,Sunfeast Dark Fantasy Choco Fills,170,100.5,4
+326,Recron Certified Dream Fibre Pillow ,819,604.5,4
+327,Dettol Liquid Disinfectant for Floor Cleaner,319,166.5,4
+328,Wakefit Height Adjustable Hollow Fibre Sleeping Pillow with Zip ,590,360.5,4
+329,Lexton 40 Feet LED Decorative String Light ,904,510,4
+330,Nivia Storm Football ,699,649.5,4
+331,Yonex Mavis 200i Nylon Shuttle Cock,300,151,4
+332,Good knight Gold Flash Liquid Vapourizer,726,526.5,4
+333,Signoraware Coconut Opener,355,196,4
+334,SYSKA Tuo Portable Rechargeable Led Lamp Cum Torch with Upto 4hrs Backup ,475,275.5,4
+335,Dettol Intense Cool Bathing Soap Bar With Menthol ,237,128,4
+336,Prestige Electric Kettle PKOSS ,95,50,4
+337,Kuber Industries Nylon Mesh Laundry Basket,599,436.5,4
+338,Bajaj Frore 1200 mm Ceiling Fan ,322,180.5,4
+339,Good knight Power Activ+ Liquid Vapourizer ,1445,1095.5,4
+340,Cello Sportigo Plastic Bottle Set,99,53,4
+341,Philips GC1905 1440,2660,1985.5,4
+342,RADIANT Door Bottom Sealing Strip Guard for Home ,432,234,4
+343,rts Dual USB Universal Travel Adapter,352,225,4
+344,Milton Super 1000 Stainless Steel Water Bottle,2295,1445.5,4
+345,HomeStrap Set of 6 Non,499,454.5,4
+346,XML Bottle Cleaning Brush Silicone Long Handle for Baby Bottle,4999,4705,4
+347,HIT Crawling Insect Killer – Cockroach Killer Spray ,441,282,4
+348,NutriPro Juicer Mixer Grinder ,649,474.5,4
+349,GLUN Bolt Electronic Portable Fishing Hook Type Digital LED Screen Luggage Weighing Scale,69,35,4
+350,Finish Dishwasher Salt ,425,244.5,4
+351,HIT Flying Insect Killer ,6000,5005,4
+352,Fevicryl Mould It,899,760,4
+353,ARISTO Vertex 3 Layer Plastic Rack for Kitchen,385,210.5,4
+354,TrustBasket Organic Vermicompost Fertilizer Manure for Plants ,390,231.265,4
+355,Philips Hair Dryer HP8120/00,300,176.5,4
+356,Kuber Industries Waterproof Round Non Wovan Laundry Bag/Hamper,480,280,4
+357,Philips GC181 Heavy Weight 1000,349,199.5,4
+358,Bosch Pro 1000W Mixer Grinder MGM8842MIN ,1345,841.5,4
+359,Presto! 2 Ply Facial Tissue Box ,199,118.25,4
+360,Nivia Double Action Ball Pump,1545,870.5,4
+361,Cello Checkers Plastic PET Canister Set,10590,7340.5,4
+362,Plantex ,385,230.5,4
+363,Lloyd 1,1090,805.5,4
+364,SVH Soap Stand Holder for Bathroom Kitchen Sink Wall Single Layer with Magic Stickers ,1349,1049.5,4
+365,Lexton 20 LED Wine Bottle Cork Lights Copper Wire String Lights ,2750,1870,4
+366,FLYNGO Reusable Ziplock Vacuum Storage Space Saver Bags for Clothes with Travel Hand Pump ,425,232.5,4
+367,Milton Aqua 1000 Stainless Steel Water Bottle,90,50.5,4
+368,Dettol Disinfectant Sanitizer Wet Wipes for Skin & Surfaces ,58990,42490.5,4
+369,RIVERSOFT SF,399,349.5,4
+370,TAPARIA Screw Driver Set with Bulb ,599,549.5,4
+371,Wolpin Microfiber Cleaning Cloths,999,711.5,4
+372,Farberware Portable Electric USB Juice Maker Juicer Bottle Blender Grinder Mixer,1323,873.5,4
+373,Goldmedal Curve Plus 202042 Plastic Spice 3,219,126,4
+374,Spenfrone Multi,4999,4149.5,4
+375,Cycle Naivedya Cup Sambrani ,332,188.5,4
+376,VR 18 Pcs ,799,709.5,4
+377,MemeHo® Smart Standard Multi,749,474.5,4
+378,Pure Source India Aroma Diffuser Oil ,171,121.5,4
+379,Desidiya 5 Meter 300 Led 5050 RGB Led Strip with Adapter/ Connector/ Driver ,129,74.5,4
+380,Kraft Seeds 20KG Vermicompost food for the soil,288,158.5,4
+381,Bella Vita Organic Aroma Candles Soy Wax 4 X 60g each,139,74.5,4
+382,Bajaj New Shakti Neo 15L Vertical Storage Water Heater ,1499,1150.5,4
+383,Smart Anchor by Panasonic Plastic 6A Plug Adaptor ,999,781,4
+384,Bosch GSB 500W 500 RE Corded,7999,7699.5,4
+385,InstaCuppa Portable Blender for Smoothie,699,429.5,4
+386,Kuber Industries Dining Table Cover 6 Seater,499,319.5,4
+387,AmazonBasics High Speed 55 Watt Oscillating Pedestal Fan,13150,10400.5,4
+388,Palazzo Study Table/Bed Table/Foldable and Portable Wooden/Writing Desk for Office/Home/School ,155,92,4
+389,HUL Pureit Germkill kit for Classic 23 L water purifier ,7950,6001,4
+390,Cello Puro Steel,2499,1499.5,4
+391,Global Grabbers Polyresin Sitting Buddha Idol Statue Showpiece for HomeDecor Decoration Gift Gifting Items,2999,2699.5,4
+392,Prestige Iris 750 Watt Mixer Grinder with 3 Stainless Steel Jar + 1 Juicer Jar ,3390,2315.5,4
+393,Boldfit Yoga Mats For Women yoga mat for men Exercise mat for home workout yoga mat for women gym mat Anti Slip Yoga mat W,599,424.5,4
+394,Bajaj Rex 750W Mixer Grinder with Nutri Pro Feature,799,694.5,4
+395,Dettol Liquid Handwash Refill – Skincare Hand Wash,999,861.5,4
+396,KENT 16051 Hand Blender 300 W ,169,88.5,4
+397,Halonix Rechargeable Emergency Inverter Led Bulb B22 9,499,399.5,4
+398,ANCHOR by Panasonic 5219 6A Cherry Flecicord Socket 2 Pin 8M ,800,600.5,4
+399,Milton Pro Cook Induction Kitchen Jewel Set of 5 ,2000,1800.5,4
+400,GM 3041 Trio 2 Pin Flex Box 5 Mtr,5295,3670.5,4
+401,SNSQUARE Floor Mat,899,700.5,4
+402,HaveAdeal Mini Multipurpose Removable Traceless Mounting Adhesive Tape for Walls Home kitchen carpet car decoration ,3499,2099.5,4
+403,Asian Paints ezycr8 Touchwood Wood Coating Spray for interior & Exterior Usage,6375,4750.5,4
+404,Themisto TH,198,104,4
+405,Jakmister 900 Watts ,1999,1369,4
+406,Prestige IRIS LPG Gas Stove,998,698.5,4
+407,Cello H2O Premium Edition Plastic Bottle,449,287.5,4
+408,RIXTEC Pack Of 15 Ziplock Pouch Veg Bag,5500,4750.5,4
+409,Asian Paints ezyCR8 Apcolite Enamel Paint Spray ,394,244.5,4
+410,Philips BRE235/00 Corded Compact Epilator ,799,686.5,4
+411,Milton Medical Box,999,937.725,4
+412,Angel Bear White Board Wall Sticker Removable with 1 Sketch Pen for Home School Office College Kitchen Kids ,400,298.5,4
+413,Kore K,759,525.5,4
+414,TAPUJI® 2023 New 2 In 1 Dumpling Maker,2999,2559,4
+415,Bajaj Esteem 400 mm Pedestal Fan ,5850,4375.5,4
+416,SOLARA Sipper Water Bottle 1 L with Motivational Time Marker,1050,625.5,4
+417,Ajanta Plastic Abstract Round Wall Clock ,399,259.5,4
+418,Boldfit Bold Gym Shaker Bottle 700ml,300,215.5,4
+419,GM 3012 3 Pin Travel Universal Multi,2795,1774,4
+420,Painting Mantra ,499,304.5,4
+421,SATTVA Classy,499,299.5,4
+422,New Gujiya,3999,3474.5,4
+423,Mamaearth Natural Insect Repellent for Babies ,999,749.5,4
+424,Kitchenwell 3 in 1 Large Durable Plastic Kitchen Sink Dish Rack Drainer Drying Rack Washing Basket with Tray for Kitchen,3855,2695.5,4
+425,GaxQuly Electric Juicer 6 Blade Rechargable Portable USB Bottle Blender Shaker Juicer A 2000 Juicer Mixer Grinder ,1499,1074.5,4
+426,Milton Prudent 1100 Thermosteel 24 Hours Hot and Cold Water Bottle,175,90.5,4
+427,Allextreme EXHDBL1 Stainless Steel Heavy Duty Painted Finish Disc Brake Anti Theft 7mm Pin Wheel Locking Security Lock for,599,474.5,4
+428,SYSKA T112Ul Maxlit 1W Bright Led Rechargeable Torch ,249,144.5,4
+429,realme narzo 50A Prime ,349,185,3
+430,Redmi A1 ,239,149.5,3
+431,boAt Airdopes Atom 81 True Wireless in Ear Earbuds with Upto 50H Playtime,239,146.5,3
+432,boAt Airdopes 141 Bluetooth Truly Wireless in Ear Earbuds with 42H Playtime,699,391.5,3
+433,boAt BassHeads 100 in,810,462,3
+434,boAt Rockerz 330 Bluetooth Wireless in Ear Earphones with mic,750,420,3
+435,Lapster 5,760,437,3
+436,boAt Wave Call Smart Watch,460,264.5,3
+437,boAt Airdopes 121v2 in,699,402,3
+438,Redmi 10A ,1499,883.5,3
+439,OnePlus 11R 5G ,899,517,3
+440,OnePlus Nord 2T 5G ,525,275,3
+441,OnePlus Nord Buds True Wireless in Ear Earbuds with Mic,320,179.5,3
+442,boAt Rockerz 255 Pro+ in,2299,1287.5,3
+443,Hammer Ace 3,840,483,3
+444,iQOO Z6 Lite 5G by vivo ,1060,609.5,3
+445,MI Power Bank 3i 20000mAh Lithium Polymer 18W Fast Power Delivery Charging ,1180,678.5,3
+446,SanDisk Cruzer Blade 32GB USB Flash Drive,1598,1265,3
+447,SanDisk Ultra® microSDXC™ UHS,480,264,3
+448,boAt Airdopes 141 Pro True Wireless in Ear Earbuds with 45H Playtime,480,264,3
+449,Samsung 25W USB Travel Adapter for Cellular Phones ,999,574.5,3
+450,pTron Bassbuds Duo in Ear Earbuds with 32Hrs Total Playtime,450,234,3
+451,TAGG Verve Sense Smartwatch with 1,249,130.5,3
+452,Portronics Toad 23 Wireless Optical Mouse with 2,800,440,3
+453,Samsung Galaxy M04 Light Green,399,249,3
+454,ZEBRONICS Zeb,399,289.5,3
+455,boAt Bassheads 220 Wired in Ear Earphones,230,130,3
+456,boAt Rockerz 450 Bluetooth On Ear Headphones with Mic,299,224.5,3
+457,JK Copier Paper ,999,574.5,3
+458,Fire TV Stick with Alexa Voice Remote ,400,230.5,3
+459,WRISTIO 3 1,499,389,3
+460,Scotch Double Sided Heavy Duty Tape,110,60.5,3
+461,Noise Pulse Go Buzz Bluetooth Calling Smart Watch,110,60.5,3
+462,STRIFF Mpad Mouse Mat 230X190X3mm Gaming Mouse Pad,399,249.5,3
+463,STRIFF Adjustable Laptop Tabletop Stand Patented Riser Ventilated Portable Foldable Compatible with MacBook Notebook Table,399,226.5,3
+464,Noise Pulse 2 Max Advanced Bluetooth Calling Smart Watch with 1,265,152.5,3
+465,Samsung EVO Plus 128GB microSDXC UHS,199,106.5,3
+466,Oppo A78 5G ,525,302,3
+467,LAPSTER Spiral Charger Spiral Charger Cable Protectors for Wires Data Cable Saver Charging Cord Protective Cable Cover Set,598,503.5,3
+468,boAt Xtend Smartwatch with Alexa Built,599,499.5,3
+469,Duracell Alkaline AAA Batteries,499,339,3
+470,Storio Kids Toys LCD Writing Tablet 8,1200,780,3
+471,boAt Type C A325 Tangle,998,798.5,3
+472,boAt Flash Edition Smart Watch with Activity Tracker,399,309,3
+473,pTron Tangent Evo,1099,867,3
+474,Samsung Galaxy M04 Dark Blue,2300,1265,3
+475,JBL C100SI Wired In Ear Headphones with Mic,1160,638,3
+476,Logitech B170 Wireless Mouse,599,456.5,3
+477,Echo Dot ,599,449.5,3
+478,GM 3060 E,900,665.5,3
+479,OneAssist 1 Year Extended Warranty for Smartwatch up to 3000 ,700,399.3,3
+480,HP X1000 Wired USB Mouse with 3 Handy Buttons,310,160.5,3
+481,HP v236w USB 2,1380,800,3
+482,boAt BassHeads 900 On,3999,3399.5,3
+483,Boult Audio Z40 True Wireless in Ear Earbuds with 60H Playtime,399,306.5,3
+484,SanDisk Cruzer Blade 64GB USB 2,3230,1857.5,3
+485,MI Cordless Beard Trimmer 1C,2999,2849.5,3
+486,Redmi Note 11 ,359,209,3
+487,OnePlus 11 5G ,699,609.5,3
+488,Dell USB Wireless Keyboard and Mouse Set,1988,1365,3
+489,Mi 10000mAH Li,8000,4607.5,3
+490,Classmate Octane Neon,590,330.5,3
+491,Oppo F21s Pro ,499,434.5,3
+492,realme TechLife Buds T100 Bluetooth Truly Wireless in Ear Earbuds with mic,2250,1445,3
+493,Noise ColorFit Pulse Grand Smart Watch with 1,399,249.5,3
+494,realme Narzo 50 Pro 5G ,999,764.5,3
+495,boAt BassHeads 220 Wired in Ear Earphones with Inline Mic,699,604.5,3
+496,Dell MS116 1000Dpi USB Wired Optical Mouse,599,494.5,3
+497,SanDisk Ultra microSD UHS,199,104.5,3
+498,HP w100 480P 30 FPS Digital Webcam with Built,670,384,3
+499,Samsung Original 25W USB Travel Lightning Adapter for Cellular Phones,450,252.5,3
+500,Tygot Adjustable Aluminium Alloy Tripod Stand Holder for Mobile Phones & Camera,299,189.5,3
+501,Portronics Konnect L 1,575,380,3
+502,Panasonic CR,399,329,3
+503,OnePlus Nord Wired Earphones with mic,299,186,3
+504,MI 10000mAh Lithium Ion,450,339,3
+505,pTron Bullet Pro 36W PD Quick Charger,755,483,3
+506,Boya ByM1 Auxiliary Omnidirectional Lavalier Condenser Microphone with 20ft Audio Cable ,440,351.5,3
+507,HP 680 Original Ink Advantage Cartridge ,575,317.5,3
+508,Samsung EVO Plus 64GB microSDXC UHS,369,212,3
+509,OnePlus Nord Buds CE Truly Wireless Bluetooth in Ear Earbuds ,595,345,3
+510,Nokia 105 Single SIM,1650,850,3
+511,Portronics MODESK POR,1299,1024.5,3
+512,MI Xiaomi Wireless Home Security Camera 2i 2022 Edition ,3900,2350,3
+513,JBL C50HI,995,545,3
+514,Dell Kb216 Wired Multimedia USB Keyboard with Super Quite Plunger Keys with Spill,1668,1391,3
+515,boAt bassheads 105 Wired in Ear Earphones with Mic ,999,702,3
+516,OPPO A74 5G ,399,234.5,3
+517,Tygot 10 Inches Big LED Ring Light for Camera,2567,1924.5,3
+518,Fujifilm Instax Mini Picture Format Film ,1999,1129,3
+519,ELV Mobile Phone Mount Tabletop Holder for Phones and Tablets ,99,54.5,3
+520,PIDILITE Fevicryl Acrylic Colours Sunflower Kit ,850,450.5,3
+521,SOFTSPUN Microfiber Cloth ,604,469.5,2
+522,Involve Your Senses One Musk Organic Car Perfume Bar,399,245.5,2
+523,ShineXPro Microfiber Car Cleaning Cloth ,549,299.5,2
+524,pTron Bullet Pro 36W PD Quick Charger,1299,1124.5,2
+525,Pidilite WD,418,273,2
+526,Jopasu Car Duster,869,491.5,2
+527,HSR Car Accessories in 10PCS/1Set Car Wiper Detergent Effervescent Tablets Washer Auto Windshield Cleaner Glass Wash Clean,499,414,2
+528,AutokraftZ Black Uv Sunblock protection with thumb hole Arm sleeves for unisex_2,99,51.5,2
+529,SOFTSPUN Microfiber Cleaning Cloths,795,626.5,2
+530,3M Foaming Car Interior Cleaner ,683,359.5,2
+531,Godrej aer twist ,399,261.5,2
+532,Portronics AUTO 12 in,1499,1238,2
+533,Cif Abrasive Surface Cleaner Cream,199,114.5,2
+534,3M Car Dashboard Dresser ,333,183.5,2
+535,Motul C2 Chain Lube for All Bikes ,245,147.5,2
+536,WeCool C1 Car Mobile Holder with One Click Technology,1999,1749.5,2
+537,Vega Crux Black Helmet,1550,1011,2
+538,ORJILO Super Soft Microfiber Car Duster Exterior with Extendable Handle,755,595,2
+539,3M Car Wash Shampoo,999,824.5,2
+540,ShineXPro Microfiber Cloth for Car ,335,210,2
+541,3M Car wash Shampoo ,649,349.5,2
+542,Pidilite WD 40,120,70,2
+543,Ambi Pur Car Air Freshener Refill Aerosol,832,524.5,2
+544,CQLEK® 2022 New Version,1020,840,2
+545,INVOLVE Music Retro Fragrance Gel Car Perfume with DrivFRESH ,199,107.5,2
+546,AmazonBasics 16,999,849.5,2
+547,Top Team Heavy Duty Multipurpose Use Cycle,499,295,2
+548,Waxpol Silky Touch Liquid Wax Polish ,1700,1300.5,2
+549,MANOGYAM Cycle Foot Air Pump ,399,304.5,2
+550,Double R Bags Multi Compartments Collapsible Portable Car Accessories for Trunk Dicky Boot Organizer Storage for Garage Se,460,280,2
+551,Eltron Turbo ELT9FHFHGF52 1 Month Warranty Original DC Power Mini Driving Fog Light Universal For All Motorcycle,699,554,2
+552,Waxpol Vinyl & Leather Polish,599,359.5,2
+553,Powerplus Steel Air Pump for ,2999,2165.5,2
+554,Abundance Combo Key case Genuine Replacement Key Shell Compatible for Honda I,3999,3524.5,2
+555,Castrol POWER1 10W,5040,4972.5,2
+556,SKYCELL 360°Rotatable and Retractable Car Phone Holder,435,272.5,2
+557,Turtle Wax ICE Seal N Shine ,999,872.5,2
+558,NABAAT Universal Waterproof Dust Cycle / Bicycle Cover for Outdoor Rain/ Sun/ Snow/ Corrosion Protection ,546,300.5,2
+559,Pidilit Bike Liquid Polish ,999,754.5,2
+560,FABTEC 96 LED Mercury Bar Light LED Fog Light for Cars ,1282,931.76,2
+561,Wavex Upholstery and Carpet Cleaner 1 LTR ,999,724.5,2
+562,PRIVILION GLOBALE Portable High Pressure Washing Water Gun,130,67.5,2
+563,GIZGA essentials Car Phone Stand,1299,972.5,2
+564,Sheen Microfiber Cleaning Cloth 800 GSM ,772,484.5,2
+565,Steelbird SBH,799,599.5,2
+566,MANKY Car USB Atmosphere Ambient Star Light car interior lights LED decorative armrest box car roof full star projection l,499,409.5,2
+567,Allextreme EXT15CW Universal T10 LED Parking Light 5630 CMD Super Bright Interior Pilot License Plate Dome Indicator Lamp ,999,849.5,2
+568,Abundance Flip Keys Aftermarket 2 Button Remote Key Shell compatible for Maruti Suzuki Models Swift,1699,1019.5,2
+569,Studds Expanded Polystyrene and Thermoplastic Urban Open Face Helmet ,300,220.5,2
+570,INALSA Vacuum Cleaner Wet and Dry Heavy Duty 1700 W & 25 Ltr Capacity with 3 in 1 Multifunction Wet/Dry/Blowing,135,70,2
+571,MEGUIAR'S Nxt Generation Car Wash pH Balanced Rich Lather Shampoo with Water softeners for spot Free Finish,999,761.5,2
+572,GARREGE New Baleno 2022 Car Body Cover Waterproof,1075,594,2
+573,Fabtec Waterproof Car Body Cover for Maruti Swift ,16995,13760,2
+574,Sheeba Throttle Body,615,335,2
+575,Wavex® Silicone Glaze Car Polish Concentrate 1ltr ,4999,4049.5,2
+576,Bosch 3397006509E7W/3397016583KTS Clear Advantage 24,2399,1649.5,2
+577,Vega Bolt Black Helmet,277,142,2
+578,Car Charger,678,340,2
+579,Keycare® Silicone Key Cover and Keychain Compatible for Jimny,515,265.5,2
+580,King Shine 2 in 1 Silicone Gel Pad Mobile Phone Holder with USB Earphone Cable Winder Cord Organizer for Car Home Office,1997,1147.5,2
+581,Woschmann Back Rest with Lumbar Support ,1262,822.5,2
+582,JVCV® Car Styling Soft Handmade Leather Key Cover Compatible with Mahindra XUV 700,799,664.5,2
+583,CreativeDesignz,1299,1249.5,2
+584,Car Windshield Repair Kit,999,849.5,2
+585,70mai A800S True 4K Dual Channel Car Dash Camera,1199,884.5,2
+586,NEXTON All Season Protection Dustproof and Water Resistant Bike Cover for Royal,999,894.5,2
+587,ELTRON TURBO Imported Original Waterproof 100% Flexible Arrow Running Blinker Bright LED Indicators Universal For All Bike,1200,1037,2
+588,Keyzone® Striped Silicone Key Cover fit for Tata Zest,19999,11949.5,2
+589,MAHABIR Footrest Stand Compatible For Scooter 450x & 450 Plus 3rd Generation Onwards,499,324.5,2
+590,Involve Elements Pro ,799,634.5,2
+591,Motomax Shiner Multi surface Spray Polish 100 ml,549,374.5,2
+592,Ns Ltd Genuine like Design Bar End Rear view Mirror made with Aluminum Embossed RE Logo compatible with all RE Bikes like ,2299,1804.5,2
+593,Kingsway Dustproof Car Body Cover,699,402,2
+594,ABUNDANCE 2 Button Key Shell Combo for Honda i vtech Amaze brio Civic mobilio CRV wrv etc ,140,75.5,2
+595,Automaze Universal Fit Car Exhaust Tail Muffler Tip Show Pipe 60mm,2999,2099.5,2
+596,T9 TAGGEAR Pack of 2 pcs,1299,1124.5,2
+597,CLOTH KING Presents Mens And Womens Hand Protection Long Gloves Sun Protection Gloves Hand Long Gloves Cotton Arm Sleeves ,700,462.5,2
+598,WILLIBEE 6 in 1 Universal Tubeless Tire Puncture Kit ,499,357.5,2
+599,LF Digital Console Protector Compatible with Suzuki Burgman ,299,247.5,2
+600,AutoBizarre High Gloss Black Carbon Fiber Style Anti,599,449.5,2
+601,Voroly Rooftop top Cargo Carrier Bag 15 Cubic feet Waterproof for All Cars with/Without Rack Includes 4 Door Hooks,699,549.5,2
+602,Auto Oprema Microfiber Leather Auto Car Steering Wheel Cover Universal 15 inch ,499,374.5,2
+603,Sheeba Multipurpose Polish ,1999,1799.5,2
+604,RiderShine 100% Dustproof,4999,3009,2
+605,CARCAT Ultrasound Rat Repellent for Automobiles ,799,626.5,2
+606,Foxcare All in One Polish + Ceramic,590,379.5,2
+607,SATMPD™ Super Soft Microfiber Car Dash Duster Brush for Car Cleaning Home Kitchen Computer Cleaning Brush Dusting Tool ,999,829.5,2
+608,XDER Metal Bike Number Plate Frame ,4950,2880,2
+609,Raida RainPro Bike Cover for RE Bullet 350 ,999,774.5,2
+610,OTOROYS Universal Bike Mount Holder Metal Body 360 Degree Rotating Handlebar Metal Body Cradle Stand for Bicycle,699,575,2
+611,Sportneer Bicycle Chain Lock SP,499,406.5,2
+612,Silicone Sucker Nagpal Anti Scratch Door Edge Rubber Guard Buffer Protectors for Cars ,889,489.5,2
+613,Skypearll Universal Wireless Motorcycle Helmet Bluetooth Headset,499,301.5,2
+614,wolpin Car Decor for Car Dashboard Duckling with Fan Car Air Vent Interior Decoration Accessories Decorative Showpiece for,1299,929.5,2
+615,AnDeal Guards Accessories Screen Protector Compatible With KIA ,1299,1179,2
+616,Ola S1 Pro Charger Holder ,2999,2199.5,2
+617,Abundance 3 Button Front Remote Key Shell Compatible for Mahindra XUV 500 Key Shell /case /pad ,799,599.5,2
+618,Bosch F002H50940 Sharptone Horn ,1699,1554.5,2
+619,Duracell 36W Fast Car Charger Adapter with Dual USB Port,2199,1649.5,2
+620,Airpro Luxury Oud Sprey Air Freshener,999,880,2
+621,SHIBUI Trunk Organizer Backseat Large Anti,205,105,2
+622,Proklear RAW Xtreme CRC SIO2 Hybrid Ceramic Waterless Wash Concentrate Makes 50 liters ,2298,1726,2
+623,Car Body Scratch Remover,769,519.5,2
+624,Cheston High Pressure Washer with Copper Winding I 1800 Watts I Pressure 120 Bar I Min Flow Rate 6,899,724.5,2
+625,HSR 3 Socket LED Voltage Display Dual USB Car Charger on/Off Switches 12V Car Splitter Adapter for Samsung ,999,674.5,2
+626,see ever Windshield Repair Kit,1299,1061.5,2
+627,Microfiber Mini Car Duster Home and Computer Cleaning Duster Brush,9999,7749.5,2
+628,Lloyd 1,58990,42490.5,1
+629,LG 1,75990,52745,1
+630,LG 1 Ton 4 Star Ai Dual Inverter Split Ac ,61990,44745,1
+631,Carrier 1,68990,49995,1
+632,Voltas 1,67790,50545,1
+633,Carrier 1 Ton 3 Star AI Flexicool Inverter Split AC ,70990,54995,1
+634,Daikin 1 Ton 3 Star Inverter Split AC ,49990,34990.5,1
+635,Daikin 1,67990,47995,1
+636,Panasonic 1,58190,42695,1
+637,Whirlpool 1,73990,54990.5,1
+638,Samsung 1,48200,31705,1
+639,Godrej 1,67200,44705,1
+640,Godrej 1 Ton 3 Star Inverter Split Ac Model 2023 ,63400,40405,1
+641,Blue Star 1,78490,57490.5,1
+642,Panasonic 1 Ton 5 Star Wi,62000,46005,1
+643,Samsung 1 Ton 3 Star Inverter Split Ac ,60990,43240.5,1
+644,Voltas 2 Ton 3 Star,57990,40990,1
+645,Voltas 0,54900,36155,1
+646,LG 0,42900,28155,1
+647,Daikin 1 Ton 5 Star Inverter Split AC ,58400,38650.5,1
+648,Blue Star 1 Ton Fixed Speed Portable AC ,62250,44255,1
+649,Blue Star 1 Ton 3 Star Fixed Speed Window AC ,62990,46245,1
+650,Samsung 1 Ton 3 Star Wi,71990,50745,1
+651,IFB 1,54600,34605,1
+652,Blue Star 0,47990,34270,1
+653,Carrier 2 Ton 5 Star AI Flexicool Inverter Split AC ,72990,51190.5,1
+654,Blue Star 1 Ton 3 Star Convertible 4 in 1 Cooling Inverter Split AC ,49990,31640,1
+655,Cruise 1,50990,34990.5,1
+656,AmazonBasics 1,75990,59750,1
+657,Voltas 1 Ton 3 Star,46900,30655,1
+658,Samsung 1 Ton 5 Star Inverter Split AC ,79990,57495,1
+659,Carrier 2 Ton 3 Star AI Flexicool Inverter Split AC ,62990,44140.5,1
+660,Panasonic 1 Ton 3 Star Wi,57700,42705,1
+661,Haier 1,70600,51105,1
+662,Hitachi Split Ac ,54990,41245,1
+663,Lloyd 2,57990,42745,1
+664,Panasonic 1 Ton 3 Star Inverter Split Air Conditioner ,55500,36250.5,1
+665,Amazon Basics 1 Ton,39000,22505,1
+666,IFB 1 Ton 3 Star Twin Inverter Split Fastcool Silver Series AC ,33000,19755,1
+667,Voltas 2 Ton 5 Star,55400,36405,1
+668,LG 2,53990,36640.5,1
+669,AmazonBasics 1 Ton 3 Star Split Ac ,55600,36700,1
+670,Panasonic 1 Ton 4 Star Wi,45090,29595,1
+671,Samsung 2 Ton 3 Star Wi,47790,25551.5,1
+672,LG 1 Ton 5 Star AI+ DUAL Inverter Wi,41500,27005,1
+673,Amazon Basics 1,91690,65195,1
+674,Voltas 1 Ton 3 Star Window AC ,51500,35155,1
+675,Cruise 1 Ton [Portable Antibacterial Coating,52900,37905,1
+676,Panasonic 2 Ton 4 Star Wi,56990,40495,1
+677,Panasonic 2 Ton 5 Star Wi,56990,42015,1
+678,Blue Star 2 Ton 3 Star Convertible 4 in 1 Cooling Inverter Split AC ,57990,39490.5,1
+679,Carrier 1 Ton 3 Star Fixed Speed Split AC ,80890,56395,1
+680,Voltas SAC 123 Vectra Platina Fixed Window AC 1 Ton,54990,38490.5,1
+681,Samsung 1 Ton 3 Star Wind,43990,31145,1
+682,Hitachi 1,48100,31855,1
+683,Blue Star 2 Ton 3 Star Fixed Speed Window AC ,64200,46955,1
+684,Whirlpool 2,61990,43140.5,1
+685,OGENERAL AMGB09BAWA,64000,47505,1
+686,Small Personal Air Conditioners Mini Air Conditioner Portable AC Fan with 3 Wind Speed & Humidifier & 7 Colorful Nightligh,71900,50780,1
+687,Blue Star 1 Ton 5 Star Fixed Speed Window AC ,85990,59945,1
+688,Amazon Basics 1 Ton 4 Star Fixed Speed Window AC ,73990,50740.5,1
+689,Voltas 2 Ton 5 Star Inverter Split AC ,59400,37905,1
+690,Voltas 1 Ton 5 Star,39500,24300.5,1
+691,LG 2 Ton 4 Star DUAL Inverter Wi,44500,27005,1
+692,LG 2 Ton 3 Star Hot & Cold DUAL Inverter Split AC ,47100,30855,1
+693,ALLWIN TAFTA High Quality Metal Special Coated Floor Mounted Split Outdoor AC Stand for 1 Ton,49089,34594,1
+694,Panasonic 2 Ton 3 Star Wi,42190,21881,1
+695,Hexzone Floor AC Stand Certified Special Coated Super Quality Split Ac Air Conditioner Outdoor Unit Stand for 1 Ton,75990,51315.5,1
+696,Panasonic 2 Ton 3 Star Hot and Cold Wi,69990,51245,1
+697,Candy 1,77990,54990,1
+698,Voltas 2 Ton 2 Star,93990,65300.5,1
+699,ONIDA 1,50990,36090.5,1
+700,Portable Air Conditioner,42990,27995,1
+701,Blue Star 2,85990,59540,1
+702,Hitachi 1 Ton 3 Star Inverter Split AC ,56990,41745,1
+703,AC Stand/Heavy Duty Air Conditioner Outdoor Unit Mounting Bracket,49000,36005,1
+704,Ogeneral 2 Ton 3 Star Window Air Conditioner AXGT24FHTC,49990,33015,1
+705,Haier Frost Clean Inverter Split AC with 5 in 1 Easy Convertible ,50600,32105,1
+706,MITSUBISHI HEAVY DUTY SRK25CSS,73000,50755,1
+707,Hitachi 2 Ton 3 Star SHIZEN 3100S INVERTER R32 Split AC ,83990,57245,1
+708,LG 1 Ton 3 Star DUAL Inverter Split AC ,78990,57745,1
+709,Blue Star Air Conditioner,56179,38684,1
+710,Godrej 1 Ton 5 Star Inverter Split Ac ,59700,42007.5,1
+711,Nutricook Air Fryer Mini,30000,17505,1
+712,Hitachi 1 Ton 5 Star Inverter Split Ac ,29490,15495,1
+713,Voltas 1 Ton,40900,25905,1
+714,Voltas 2 Ton 2 Star Window AC ,77150,48655,1
+715,Blue Star 2 Tr 3 Star Fixed Speed Split AC ,87900,54405,1
+716,ONIDA 1 Ton 3 Star Inverter Split AC ,71750,47750,1
+717,Daikin 2,59990,43040,1
+718,Carrier 1 Ton 3 Star Fixed Speed Window AC,54590,38595,1
+719,Hisense 1,35990,22515,1
+720,Hitachi 1 Ton 3 Star Window AC ,48200,32955,1
+721,Blue Star 1 Ton 5 Star Convertible 4 in 1 Cooling Inverter Split AC ,52990,35640.5,1
+722,ThreeH USB Fan Silent Mini Air Conditioner Travel Handheld USB Rechargeable Fan Air Purifier Humidifier Cooling Fan F015,73800,49516.5,1
+723,Panasonic 2,61400,39405,1
+724,OGeneral AXGB18BAWA 1,66900,48655,1
+725,Mitsubishi Heavy Industries 1,68990,52151,1
+726,Spigen Thin Fit Back Cover Case Compatible with iPhone 14 Pro ,18999,17749.5,3
+727,Winble Back Cover for Redmi K20 Pro/K20 ,299,229.5,3
+728,hynix HMT351S6BFR8C 4GB DDR3 PC3,1599,1204.5,3
+729,SanDisk 500GB Extreme Portable SSD 1050MB/s R,38990,28995,3
+730,HOUSE OF QUIRK Black Board Vinyl Wall Sticker Removable Decal Chalkboard ,1199,849.5,3
+731,EVM25/256GB 256GB SSD 2,699,603,3
+732,TheGiftKart Back Cover For Xiaomi Redmi Note 10 Pro/ Note 10 Pro Max ,19999,14120,3
+733,POPIO Tempered Glass Compatible for iPhone SE ,999,799.5,3
+734,Vero Forza Glide Pro V2 ,1299,949.5,3
+735,Cat Care Compatible with Compatible iPhone New Edition Charger Case Cover ,449,399.5,3
+736,bArrett USB Fast Charger 2,1999,1799.5,3
+737,Boult Audio ProBass Ranger Over,999,824.5,3
+738,UNIGEN 20W PD Type,999,949.5,3
+739,Mobilife Bluetooth Extendable Selfie Stick with Tripod Stand and Wireless Remote,15490,8508.5,3
+740,Spigen Rugged Armor Back Cover Case Compatible with Xiaomi 13 Pro ,899,674.5,3
+741,ESR HaloLock Magnetic Car Phone Mount,2999,2097,3
+742,Logitech MK850 Multi,7999,6999.5,3
+743,HUMBLE Mini Quick Release Plate QR Release Plate Replacement for Tripod Clamps for Sony VCT,399,349.5,3
+744,Kingston DataTraveler Exodia M 64GB USB,5530,3380.5,3
+745,Cello Signature Ethos Ball Pen ,500,300.5,3
+746,CASEOLOGY by Spigen Parallax TPU,590,323,3
+747,Isoelite Remote Compatible with Panasonic Split Ac Remote Control [ Compatible for Panasonic AC Remote Control ],3499,2599.5,3
+748,DishanKart Ivory Sheets For Drawing,999,749.5,3
+749,Noise ColorFit Pro 3 Assist Smart Watch with Alexa Built,6079,3305,3
+750,Pikkme iPhone XR Back Cover ,7818,4668.5,3
+751,Parker Classic Stainless Steel CT Ball Pen,499,399.5,3
+752,Spigen Leather,1699,1199.5,3
+753,Western Digital WD 5TB My Passport Portable Hard Disk Drive,999,899.5,3
+754,RJ Wi,1499,1198.5,3
+755,TheGiftKart Crystal Clear Back Cover Case for iQOO Z6 Pro/Vivo T1 Pro 5G ,599,494.5,3
+756,10W to 65W Type,999,899.5,3
+757,Lava A1 ,1999,1724.5,3
+758,MI Compact Bluetooth Speaker 2 with in,2999,2058,3
+759,Sakura Pigma Micron 10 Fineliner pens Black Archival Ink Artist Drawing Sketch pens ,695,368.5,3
+760,MOTOROLA e32s ,249,186.5,3
+761,American Tourister Spin 49 cms Teal Laptop Backpack,500,337.5,3
+762,FOLX FNO02 G,7600,6600.5,3
+763,TheGiftKart Shockproof Crystal Clear Back Cover Case for OnePlus Nord 2020,64990,43495,3
+764,EMBOX 10A Extension board with usb port ,999,785.5,3
+765,KABEER ART Set of 6 Non Toxic Finger Paint Bottles 30ml with Smooth,557.65,449.825,3
+766,Spigen Ultra Hybrid Back Cover Case Compatible for Google Pixel 7 Pro ,19499,12449.5,3
+767,Beclina Screen Cleaning Towel ,599,473.5,3
+768,Apple Watch Magnetic Charging Cable ,599,524,3
+769,"Zipline Synthetic Leather Executive SMALL messenger bag Briefcase for upto 13"" Laptop/Tablet for men women with multiple c",799,599.5,3
+770,Spigen Full Coverage Tempered Glass Screen Protector Guard for MacBook Air 13,999,749.5,3
+771,Standlast Extension Board Cord 10 AMP 240V 6,4797,3252,3
+772,Ohuhu Alcohol Markers,1499,1154,3
+773,Smart Watch Melbon MD115 Smart Band,1152,756.5,3
+774,Spigen Essential Sand Blast Back Cover Compatible for Samsung Galaxy A33 5G ,2999,2509,3
+775,Fashionury Shockproof Crystal Clear Back Cover For Mi Redmi 10 / Redmi 10 Power Back Cover Case ,66999,42504,3
+776,Reynolds BRITE BP 25 CT JAR ,6990,5990.5,3
+777,Aston Andia Compatible for Xiaomi MI Band 5 4 3 Nylon Band Strap,999,649.5,3
+778,7SEVEN¨ Suitable Sony Tv Remote Original Bravia for Smart Android Television Compatible for Any Model of LCD LED OLED UHD ,499,424.5,3
+779,ZXN 5V 10W USB Charging Cable for Mi Trimmer,399,324.5,3
+780,Redgear Pro Wireless Series Gamepad Wireless Receiver for PC Black,1499,1262,3
+781,TheGiftKart Tough Armor Samsung Galaxy M33 Bumper Back Case Cover ,899,660,3
+782,Acer ED320QR 31,999,869.5,3
+783,Spigen Full Coverage Tempered Glass Screen Guard Protector for Galaxy S20 FE 4G / 5G ,1999,1599.5,3
+784,Westinghouse 106 cm ,999,849.5,3
+785,Winble Back Cover For Redmi Note 10 Pro Max/ Redmi note 10 pro ,999,857,3
+786,ESR Classic Kickstand Case with HaloLock Compatible with iPhone 14 Pro Max,1699,1049.5,3
+787,Waterproof D20 Touchscreen Smart Watch Bluetooth Smartwatch with Blood Pressure Tracking,1615,865,3
+788,SanDisk Extreme Pro microSD UHS I Card 64GB for 4K Video on Smartphones,1299,1089.5,3
+789,AmazonBasics Truly Wireless in Ear Earbuds with Built,2499,2049.5,3
+790,CEDO Samsung A51 Back Cover ,249,149,3
+791,FosCadit Dummy Fake Bullet Camera with Flashing Red LED Light Dummy CCTV Security Camera for Home & Office ,16999,10299.5,3
+792,Energizer CR1620 3V Lithium Coin Battery,1999,1674.5,3
+793,OpenTech® Tempered Glass Screen Protector Compatible with OnePlus 9RT 5G with Edge to Edge Coverage and Easy Installation kit,495,295,3
+794,proffisy 303 Toner for Canon 303 CRG 303 Toner Cartridge for Canon LBP 2900,20800,15550.5,3
+795,7SEVEN® Compatible Vu Smart Tv Remote Control Suitable for Original 4K Android LED Ultra HD UHD Vu Tv Remote with Non Voic,699,589.5,3
+796,Kinsound Red USB Type C to 3,4500,3552.5,3
+797,SYGA Replacement Ear Pads Compatible with JBL Tune 500BT / T500BT / T450BT Wireless Headphones,1199,869.5,3
+798,Pikkme Mi A3 Back Cover Soft Matte Liquid Silicone TPU ,28799,18799.5,3
+799,King Shine 2 in 1 Silicone Gel Pad Mobile Phone Holder with USB Earphone Cable Winder Cord Organizer for Car Home Office,999,849.5,3
+800,MeRaYo Metal Mesh Office Desk Organizer Stationery Pen Stand ,2620,1770.5,3
+801,Vivo Y02 ,999,949.5,3
+802,HP 280 USB Wireless Mouse,2000,1550.5,3
+803,Robustrion Trifold Flip Stand Hard Back Case Cover for Redmi Pad 10,795,595.5,3
+804,Boult Audio Probass X1,999,924.5,3
+805,PIXELARTZ PA,999,884.5,3
+806,Super Ultra Mini Boost Wireless Portable Bluetooth Speaker Built,599,424,3
+807,TheGiftKart Sleek Back Cover Case for OnePlus 11 5G ,699,624.5,3
+808,Sounce Soft TPU Front Protection Case Cover for Amazfit GTS 2 Mini/ BIP U /Bip U Pro/ BIP Lite/Bip S/Bip S Lite Smart Watc,1499,959.5,3
+809,NARE Smart Standard Multi,5990,4540,3
