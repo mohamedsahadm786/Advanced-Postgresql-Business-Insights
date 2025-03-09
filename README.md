@@ -94,8 +94,7 @@ Trigger: The procedure is triggered after a sales record is inserted.
 Update: It reduces the stock quantity from the inventory table based on the product sold.
 
 
-```markdown
-### **SQL Code:**
+
 
 ```sql
 CREATE OR REPLACE PROCEDURE add_sales
