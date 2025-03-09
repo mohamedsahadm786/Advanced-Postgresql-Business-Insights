@@ -96,3 +96,73 @@ Update: It reduces the stock quantity from the inventory table based on the prod
 
 ```markdown
 ### **SQL Code:**
+
+```sql
+CREATE OR REPLACE PROCEDURE add_sales
+(
+ p_order_id INT,
+ p_customer_id INT,
+ p_seller_id INT,
+ p_order_item_id INT,
+ p_product_id INT,
+ p_quantity INT
+)
+LANGUAGE plpgsql
+AS
+$$
+
+DECLARE
+-- All variables
+v_count INT;
+v_price FLOAT;
+v_product VARCHAR(50);
+
+BEGIN
+-- All the code and logic
+    -- Fetching product_name and price based on product_id enterd
+    SELECT 
+	    price, product_name
+	    INTO 
+		v_price,v_product
+	FROM products
+	WHERE product_id = p_product_id;
+
+	-- Checking stock and product availability in inventory
+	SELECT
+	    COUNT(*) INTO v_count
+	FROM inventory
+	WHERE product_id = p_product_id 
+	      AND 
+		  stock >= p_quantity;
+		  
+	IF v_count > 0 
+	
+	THEN
+	-- Add into orders and order_items table
+	-- update inventory
+	
+		INSERT INTO orders(order_id, order_date, customer_id, seller_id)
+		VALUES
+		(p_order_id,CURRENT_DATE,p_customer_id,p_seller_id);
+
+		-- adding into order list
+		INSERT INTO order_items(order_item_id,order_id,product_id,quantity,price_per_unit,total_sale)
+		VALUES
+		(p_order_item_id,p_order_id,p_product_id,p_quantity,v_price,v_price * p_quantity);
+
+		-- updating inventory
+		UPDATE inventory
+		SET stock = stock - p_quantity
+		WHERE product_id = p_product_id;
+
+		RAISE NOTICE 'Thank you Product: % sale has been added also inventory stock updates',v_product;
+		
+	ELSE
+		RAISE NOTICE 'Thank you for your info the product: % is not available',v_product;
+
+	END IF;
+
+
+END;
+$$
+```
