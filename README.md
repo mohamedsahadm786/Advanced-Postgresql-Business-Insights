@@ -168,3 +168,6 @@ BEGIN
 END;
 $$
 ```
+## 💡 Conclusion
+
+### This project involved advanced-level PostgreSQL queries addressing complex business problems within an Amazon purchasing context. The highlight of the project was the creation of a Store Procedure to automate inventory stock updates upon sales, showcasing advanced database management skills. This project can significantly contribute to business intelligence, data-driven decision-making, and operational efficiency.
