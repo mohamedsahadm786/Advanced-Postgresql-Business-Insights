@@ -168,6 +168,12 @@ BEGIN
 END;
 $$
 ```
+
+## 📊 ER Diagram
+Here is the Entity Relationship Diagram (ERD) for the Amazon purchasing database:  
+
+![ER Diagram](https://github.com/mohamedsahadm786/advanced-postgresql-business-insights/blob/main/erd.png)
+
 ## 💡 Conclusion
 
 ### This project involved advanced-level PostgreSQL queries addressing complex business problems within an Amazon purchasing context. The highlight of the project was the creation of a Store Procedure to automate inventory stock updates upon sales, showcasing advanced database management skills. This project can significantly contribute to business intelligence, data-driven decision-making, and operational efficiency.
