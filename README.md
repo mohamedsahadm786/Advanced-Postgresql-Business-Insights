@@ -95,8 +95,9 @@ Update: It reduces the stock quantity from the inventory table based on the prod
 
 
 
+```markdown
+### **SQL Code:**
 
-```sql
 CREATE OR REPLACE PROCEDURE add_sales
 (
  p_order_id INT,
